@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Console_Alpaca.Models;
-using Microsoft.Extensions.Options;
 
 namespace Console_Alpaca.DataContext
 {

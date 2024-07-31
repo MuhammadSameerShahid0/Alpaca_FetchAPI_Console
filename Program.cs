@@ -5,7 +5,6 @@ using System.Diagnostics;
 using Console_Alpaca;
 using Console_Alpaca.DataContext;
 using Console_Alpaca.Interfaces;
-using System.Threading.Tasks;
 
 namespace Alpaca_Console
 {
